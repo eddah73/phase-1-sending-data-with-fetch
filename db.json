@@ -1,30 +1,119 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "3a46",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "70e4",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "a1a9",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "930a",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "8b26"
+    },
+    {
+      "id": "7",
+      "dogName": "",
+      "dogBreed": ""
+    },
+    {
+      "id": "6",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "d611",
+      "dogName": "eddah",
+      "dogBreed": "eddah@gmail.com"
+    },
+    {
+      "id": "9417",
+      "dogName": "eddah",
+      "dogBreed": "eddah@gmail.com"
+    },
+    {
+      "id": "be55",
+      "dogName": "eddah",
+      "dogBreed": "eddah@gmail.com"
+    },
+    {
+      "id": 6,
+      "dogName": "eddah",
+      "dogBreed": "eddah@gmail.com"
+    },
+    {
+      "id": "825d",
+      "name": "eddah",
+      "email": "eddah@gmail.com"
+    },
+    {
+      "id": "01b1",
+      "name": "eddah",
+      "email": "eddah@gmail.com"
+    },
+    {
+      "id": "edfc"
+    },
+    {
+      "id": "523c"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
